@@ -8,7 +8,6 @@
 - 📫 How to reach me:
     - [Mail](mailto:gentilijuanmanuel@gmail.com).
     - [LinkedIn](https://www.linkedin.com/in/juan-manuel-gentili/).
-    - [About me](https://about.me/jmgentili).
     - [Twitter](https://twitter.com/jgentilicio).
     - [Instagram](https://www.instagram.com/juanma.gentili/).
 - 📄 [Curriculum Vitae](https://resume.io/r/kvTWnAEph).
