@@ -10,4 +10,4 @@
     - [LinkedIn](https://www.linkedin.com/in/juan-manuel-gentili/).
     - [Twitter](https://twitter.com/jgentilicio).
     - [Instagram](https://www.instagram.com/juanma.gentili/).
-- 📄 [Curriculum Vitae](https://resume.io/r/kvTWnAEph).
+- 📄 [Resume](https://resume.io/r/kvTWnAEph).
